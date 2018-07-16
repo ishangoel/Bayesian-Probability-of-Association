@@ -9,6 +9,6 @@ numpy
 wget
 pickle
 pandas
-skikit
+scikit
 
 Further, the folder Bayesian Probability of Association has the code to use for calculating BPA on any dataset.
